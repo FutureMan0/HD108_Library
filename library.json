@@ -1,0 +1,14 @@
+{
+    "name": "HD108LEDLib",
+    "version": "0.0.1",
+    "description": "Eine Bibliothek zur Steuerung des HD108 LED-Chipsatzes.",
+    "authors": [
+        {
+            "name": "Luis Bl\u00fcml"
+        }
+    ],
+    "platforms": [
+        "*"
+    ],
+    "dependencies": []
+}

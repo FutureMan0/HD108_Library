@@ -1,3 +1,11 @@
+/*
+ * 🌟 HD108 LED Library 🌟
+ * Developed by Luis Blüml
+ * This library is free for commercial use.
+ * Unleash the power of vibrant LEDs in your projects!
+ * For more information, visit the GitHub repository: https://github.com/FutureMan0/HD108_Library
+ */
+
 #include <HD108_Library.h>
 
 HD108 strip(252);

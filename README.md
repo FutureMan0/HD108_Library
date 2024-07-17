@@ -5,7 +5,7 @@ Welcome to the HD108 LED Library! This powerful and easy-to-use library allows y
 
 ## Installation
 
-1. **Download the Library**: Get the latest version of the HD108 LED Library from [here](#).
+1. **Download the Library**: Get the latest version of the HD108 LED Library from [here](https://github.com/FutureMan0/HD108_Library/releases/download/first/HD108_Library.zip).
 2. **Add to Your Project**:
    - **Arduino**: Place the downloaded library in the `libraries` folder of your Arduino sketchbook.
    - **PlatformIO**: Add the library to your `lib` directory or use the Library Manager to include it in your project.
